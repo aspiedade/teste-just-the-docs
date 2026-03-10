@@ -1,0 +1,26 @@
+
+[Documentação](../documentacao.md)
+
+# How-to
+
+- [[Python][BigQuery] Sobrescrever particao de tabela](how-to/-python-bigquery-sobrescrever-particao-de-tabela.md)
+- [[SQLServer] Configurar Linked Server para BigQuery](how-to/-sqlserver-configurar-linked-server-para-bigquery.md)
+- [Acesso ao Github Copilot](how-to/acesso-ao-github-copilot.md)
+- [Acesso de Administrador local no Windows](how-to/acesso-de-administrador-local-no-windows.md)
+- [Airflow - Verificar DAGs e Tasks em execucao](how-to/airflow-verificar-dags-e-tasks-em-execucao.md)
+- [Cadastro - Geracao do arquivo de Status Unico](how-to/cadastro-geracao-do-arquivo-de-status-unico.md)
+- [Como criar certificados para usar em listener da AWS](how-to/como-criar-certificados-para-usar-em-listener-da-aws.md)
+- [Como criar um webhook no Teams](how-to/como-criar-um-webhook-no-teams.md)
+- [Como estender um sistema de arquivos Linux apos um redimensionamento de volume](how-to/como-estender-um-sistema-de-arquivos-linux-apos-um-redimensionamento-de-volume.md)
+- [Configuracao da VPN no WSL 2](how-to/configuracao-da-vpn-no-wsl-2.md)
+- [Consultas no AD para auxiliar em integracoes com LDAP](how-to/consultas-no-ad-para-auxiliar-em-integracoes-com-ldap.md)
+- [Docker](how-to/docker.md)
+  - [jupyter-pyspark-notebook](how-to/docker/jupyter-pyspark-notebook.md)
+    - [Erro no Jupyter - Google Client Invalid JWT Token must be a short-lived token](how-to/docker/jupyter-pyspark-notebook/erro-no-jupyter-google-client-invalid-jwt-token-must-be-a-short-lived-token.md)
+- [GCP](how-to/gcp.md)
+  - [GCP - Boas praticas de autenticacao de aplicacao](how-to/gcp/gcp-boas-praticas-de-autenticacao-de-aplicacao.md)
+  - [Ler arquivos do GCS pelo Pandas](how-to/gcp/ler-arquivos-do-gcs-pelo-pandas.md)
+- [Instalar certificado SSL do Stash no Git](how-to/instalar-certificado-ssl-do-stash-no-git.md)
+- [Places Insights](how-to/places-insights.md)
+- [Rodar dbt local](how-to/rodar-dbt-local.md)
+- [Solicitar permissao em bases on premise](how-to/solicitar-permissao-em-bases-on-premise.md)

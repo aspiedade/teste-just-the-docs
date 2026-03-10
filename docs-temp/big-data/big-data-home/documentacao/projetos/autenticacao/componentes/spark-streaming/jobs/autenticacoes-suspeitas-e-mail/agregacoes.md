@@ -1,0 +1,8 @@
+
+[Documentação](../../../../../../../documentacao.md) > [Projetos](../../../../../../projetos.md) > [Autenticacao](../../../../../autenticacao.md) > [Componentes](../../../../componentes.md) > [Spark Streaming](../../../spark-streaming.md) > [Jobs](../../jobs.md) > [Autenticacoes suspeitas E-mail](../autenticacoes-suspeitas-e-mail.md)
+
+# Agregacoes
+
+| Nome da agregação            | Regra                                                                                                                                                                          | Intervalo de execução   | Query                                                                                                                                                                                          |
+|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **AUTH\_N\_COUNTRIES\_SMTP** | Usuário @uol que nas últimas 24 horas em relação à data da execução do job se autenticou com sucesso de N países, no serviço de e-mail (9) e no produto/protocolo smtp (1827). | De 1 em 1 hora          | [Script](https://stash.uol.intranet/projects/BIBD/repos/authentication-stream/browse/src/main/scala/br/com/uol/bigdata/spark/aggregation/suspect_authentication/sql/AUTH_N_COUNTRIES_SMTP.sql) |
