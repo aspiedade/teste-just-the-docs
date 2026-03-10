@@ -2,8 +2,7 @@ title: Documentação D&A
 description: Testando templatezinho ⛩️
 theme: just-the-docs
 
-url: https://aspiedade.github.io/teste-just-the-docs/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: "https://aspiedade.github.io"
 
+baseurl: "/teste-just-the-docs"
